@@ -1,4 +1,5 @@
-geoip2==4.5.0
-humanize==3.13.1
-bottle==0.12.20
-semantic_version==2.8.5
+Flask==3.1.0
+Flask-WTF==1.2.2
+geoip2==4.8.1
+humanize==4.11.0
+semver==3.0.2
